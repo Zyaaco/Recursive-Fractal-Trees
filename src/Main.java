@@ -1,7 +1,5 @@
 import processing.core.*;
 
-import javax.swing.plaf.SliderUI;
-
 public class Main extends PApplet {
     public static void main(String[] args) {
         PApplet.main("Main");
